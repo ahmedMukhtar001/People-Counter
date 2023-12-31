@@ -1,3 +1,6 @@
-let firstBatch = 5;
+let count = 0;
 
-let secon
+function increment() {
+    count = count + 1
+    console.log(count)
+}
